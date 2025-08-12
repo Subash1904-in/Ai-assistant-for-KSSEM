@@ -1,0 +1,106 @@
+{
+  "frequently_asked_questions": [
+    {
+      "id": "admission_process",
+      "question": "How can I apply for admission to KSSEM?",
+      "answer": "Admissions are based on Karnataka CET for undergraduate programs and GATE/PGCET for postgraduate programs. Applications are open from March to June. Visit our admissions office in the Administrative Block or check our website for detailed information.",
+      "category": "admissions",
+      "keywords": ["admission", "apply", "application", "entrance", "eligibility"]
+    },
+    {
+      "id": "library_timings",
+      "question": "What are the library timings?",
+      "answer": "The KSSEM Central Library is open from 8:00 AM to 8:00 PM on all working days. It's located in Block F, Ground Floor. The library has a capacity of 200 students and offers digital resources, research databases, and study spaces.",
+      "category": "facilities",
+      "keywords": ["library", "timings", "hours", "books", "study"]
+    },
+    {
+      "id": "cafeteria_menu",
+      "question": "Where is the cafeteria and what are the meal timings?",
+      "answer": "The cafeteria is located in Block G, Ground Floor. It serves breakfast (7:00-10:00 AM), lunch (12:00-2:00 PM), and dinner (6:00-8:00 PM). We offer both vegetarian and non-vegetarian options, including South Indian, North Indian, and Chinese cuisines.",
+      "category": "facilities",
+      "keywords": ["cafeteria", "food", "meal", "dining", "lunch", "breakfast", "dinner"]
+    },
+    {
+      "id": "placement_statistics",
+      "question": "What are the placement statistics for KSSEM?",
+      "answer": "KSSEM has achieved 85% placement rate in 2023. Top recruiters include TCS, Infosys, Wipro, Accenture, and L&T. The highest package offered was 12 LPA, with an average package of 4.5 LPA. Visit the Placement Cell in Admin-101 for more details.",
+      "category": "placements",
+      "keywords": ["placement", "job", "company", "salary", "package", "recruitment"]
+    },
+    {
+      "id": "hostel_facilities",
+      "question": "Does KSSEM provide hostel facilities?",
+      "answer": "Yes, KSSEM provides separate hostel facilities for boys and girls. Boys' hostel accommodates 300 students and girls' hostel accommodates 200 students. Facilities include Wi-Fi, mess, recreation room, and 24/7 security. Contact the hostel warden for admission details.",
+      "category": "facilities",
+      "keywords": ["hostel", "accommodation", "stay", "room", "mess", "boarding"]
+    },
+    {
+      "id": "computer_lab",
+      "question": "Where are the computer labs located?",
+      "answer": "Computer labs are primarily in Block A (CSE Department). Main labs include Programming Lab (A-201), Data Structures Lab (A-202), DBMS Lab (A-301), Networks Lab (A-302), and AI/ML Lab (A-401). All labs have the latest software and high-speed internet.",
+      "category": "academics",
+      "keywords": ["computer", "lab", "programming", "software", "coding"]
+    },
+    {
+      "id": "fees_structure",
+      "question": "What is the fee structure for different courses?",
+      "answer": "B.Tech fee is ₹1,20,000 per year. M.Tech fee is ₹80,000 per year. MBA fee is ₹1,50,000 per year. Additional charges include library fee (₹2,000), lab fee (₹5,000), and development fee (₹3,000). Scholarships are available for merit and need-based students.",
+      "category": "admissions",
+      "keywords": ["fees", "cost", "payment", "scholarship", "financial"]
+    },
+    {
+      "id": "medical_facilities",
+      "question": "Are medical facilities available on campus?",
+      "answer": "Yes, KSSEM has a medical center in Block J, Ground Floor. It operates from 9:00 AM to 5:00 PM with qualified medical staff. First aid, basic treatments, and health checkups are available. For emergencies, we have tie-ups with nearby hospitals.",
+      "category": "facilities",
+      "keywords": ["medical", "health", "doctor", "first aid", "emergency", "treatment"]
+    },
+    {
+      "id": "research_opportunities",
+      "question": "What research opportunities are available?",
+      "answer": "KSSEM has a dedicated Research Center in Block R. We offer research opportunities in AI/ML, IoT, Renewable Energy, and Environmental Engineering. Students can participate in funded projects, publish papers, and attend conferences. Contact Dr. Mohan Krishna, Research Head.",
+      "category": "academics",
+      "keywords": ["research", "projects", "innovation", "publication", "conference"]
+    },
+    {
+      "id": "sports_facilities",
+      "question": "What sports facilities are available?",
+      "answer": "KSSEM has a well-equipped gymnasium in Block I (6:00 AM - 9:00 PM), outdoor basketball and volleyball courts, cricket ground, and indoor games facility. We also have a swimming pool and conduct regular sports tournaments and competitions.",
+      "category": "facilities",
+      "keywords": ["sports", "gym", "games", "cricket", "basketball", "swimming", "fitness"]
+    },
+    {
+      "id": "transport_facility",
+      "question": "Does KSSEM provide transportation?",
+      "answer": "Yes, KSSEM operates bus services from major areas in Bangalore including Electronic City, Koramangala, Jayanagar, and Marathahalli. Bus timings are 7:30 AM (pickup) and 5:30 PM (drop). Contact the transport office for route details and passes.",
+      "category": "facilities",
+      "keywords": ["transport", "bus", "travel", "pickup", "drop", "route"]
+    },
+    {
+      "id": "wifi_internet",
+      "question": "Is Wi-Fi available on campus?",
+      "answer": "Yes, high-speed Wi-Fi is available throughout the campus including all blocks, library, cafeteria, and hostels. Students get individual login credentials with daily data limits. The network name is 'KSSEM_Student' for academic use.",
+      "category": "facilities",
+      "keywords": ["wifi", "internet", "network", "online", "connectivity"]
+    }
+  ],
+  "quick_answers": {
+    "principal": "Dr. Srinivasa Rao is the Principal of KSSEM",
+    "established": "KSSEM was established in 2005",
+    "location": "KSSEM is located in Bangalore, Karnataka, India",
+    "total_students": "Approximately 1380 students are enrolled",
+    "total_faculty": "We have 63 faculty members across all departments",
+    "campus_area": "KSSEM campus spans 25 acres",
+    "accreditation": "KSSEM is NAAC accredited with 'A' grade",
+    "university": "We are affiliated to Visvesvaraya Technological University (VTU)"
+  },
+  "emergency_contacts": {
+    "security": "+91-80-1234-9999",
+    "medical": "+91-80-1234-9998",
+    "admin": "+91-80-1234-9997",
+    "hostel_boys": "+91-80-1234-9996",
+    "hostel_girls": "+91-80-1234-9995",
+    "transport": "+91-80-1234-9994"
+  }
+}

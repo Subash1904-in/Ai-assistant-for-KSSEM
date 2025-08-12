@@ -1,0 +1,158 @@
+{
+  "departments": [
+    {
+      "id": "cse",
+      "name": "Computer Science and Engineering",
+      "head": {
+        "name": "Dr. Rajesh Kumar",
+        "email": "rajesh.kumar@kssem.edu.in",
+        "office": "A-401",
+        "phone": "+91-80-1234-5601"
+      },
+      "location": {
+        "block": "A",
+        "floors": [2, 3, 4],
+        "labs": ["Programming Lab - A201", "Data Structures Lab - A202", "DBMS Lab - A301", "Networks Lab - A302", "AI/ML Lab - A401"]
+      },
+      "courses": [
+        "B.Tech Computer Science",
+        "M.Tech Computer Science",
+        "M.Tech Data Science"
+      ],
+      "faculty_count": 18,
+      "student_capacity": 480,
+      "established": "2006",
+      "specializations": ["Artificial Intelligence", "Machine Learning", "Cybersecurity", "Software Engineering"],
+      "contact": {
+        "email": "cse@kssem.edu.in",
+        "phone": "+91-80-1234-5600"
+      }
+    },
+    {
+      "id": "ece",
+      "name": "Electronics and Communication Engineering",
+      "head": {
+        "name": "Dr. Priya Sharma",
+        "email": "priya.sharma@kssem.edu.in",
+        "office": "B-301",
+        "phone": "+91-80-1234-5701"
+      },
+      "location": {
+        "block": "B",
+        "floors": [1, 2, 3],
+        "labs": ["Electronics Lab - B101", "Communication Lab - B102", "VLSI Lab - B201", "Microprocessor Lab - B202", "Signal Processing Lab - B301"]
+      },
+      "courses": [
+        "B.Tech Electronics and Communication",
+        "M.Tech VLSI Design",
+        "M.Tech Communication Systems"
+      ],
+      "faculty_count": 15,
+      "student_capacity": 360,
+      "established": "2007",
+      "specializations": ["VLSI Design", "Embedded Systems", "Wireless Communication", "Signal Processing"],
+      "contact": {
+        "email": "ece@kssem.edu.in",
+        "phone": "+91-80-1234-5700"
+      }
+    },
+    {
+      "id": "me",
+      "name": "Mechanical Engineering",
+      "head": {
+        "name": "Dr. Suresh Reddy",
+        "email": "suresh.reddy@kssem.edu.in",
+        "office": "C-201",
+        "phone": "+91-80-1234-5801"
+      },
+      "location": {
+        "block": "C",
+        "floors": [1, 2],
+        "labs": ["Manufacturing Lab - C101", "Thermal Lab - C102", "CAD Lab - C103", "Materials Lab - C201", "Fluid Mechanics Lab - C202"]
+      },
+      "courses": [
+        "B.Tech Mechanical Engineering",
+        "M.Tech Thermal Engineering",
+        "M.Tech Design Engineering"
+      ],
+      "faculty_count": 12,
+      "student_capacity": 240,
+      "established": "2008",
+      "specializations": ["Thermal Engineering", "Manufacturing", "Automotive", "Robotics"],
+      "contact": {
+        "email": "me@kssem.edu.in",
+        "phone": "+91-80-1234-5800"
+      }
+    },
+    {
+      "id": "civil",
+      "name": "Civil Engineering",
+      "head": {
+        "name": "Dr. Lakshmi Devi",
+        "email": "lakshmi.devi@kssem.edu.in",
+        "office": "D-201",
+        "phone": "+91-80-1234-5901"
+      },
+      "location": {
+        "block": "D",
+        "floors": [1, 2],
+        "labs": ["Structures Lab - D101", "Materials Lab - D102", "Surveying Lab - D103", "Environmental Lab - D201", "Geotechnical Lab - D202"]
+      },
+      "courses": [
+        "B.Tech Civil Engineering",
+        "M.Tech Structural Engineering",
+        "M.Tech Environmental Engineering"
+      ],
+      "faculty_count": 10,
+      "student_capacity": 180,
+      "established": "2009",
+      "specializations": ["Structural Engineering", "Environmental Engineering", "Transportation", "Water Resources"],
+      "contact": {
+        "email": "civil@kssem.edu.in",
+        "phone": "+91-80-1234-5900"
+      }
+    },
+    {
+      "id": "mba",
+      "name": "Master of Business Administration",
+      "head": {
+        "name": "Dr. Vikram Singh",
+        "email": "vikram.singh@kssem.edu.in",
+        "office": "E-201",
+        "phone": "+91-80-1234-6001"
+      },
+      "location": {
+        "block": "E",
+        "floors": [1, 2],
+        "labs": ["Finance Lab - E101", "Marketing Lab - E102", "HR Lab - E201", "Operations Lab - E202"]
+      },
+      "courses": [
+        "MBA",
+        "Executive MBA",
+        "PGDM"
+      ],
+      "faculty_count": 8,
+      "student_capacity": 120,
+      "established": "2010",
+      "specializations": ["Finance", "Marketing", "Human Resources", "Operations Management"],
+      "contact": {
+        "email": "mba@kssem.edu.in",
+        "phone": "+91-80-1234-6000"
+      }
+    }
+  ],
+  "common_facilities": {
+    "placement_cell": {
+      "location": "Administrative Block - Admin-101",
+      "head": "Dr. Anitha Rao",
+      "contact": "placements@kssem.edu.in",
+      "phone": "+91-80-1234-7000"
+    },
+    "research_center": {
+      "location": "Block R, All Floors",
+      "head": "Dr. Mohan Krishna",
+      "contact": "research@kssem.edu.in",
+      "phone": "+91-80-1234-7100"
+    }
+  }
+}
