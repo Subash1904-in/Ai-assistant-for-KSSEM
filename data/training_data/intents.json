@@ -1,0 +1,260 @@
+{
+  "intents": [
+    {
+      "tag": "navigation",
+      "patterns": [
+        "Where is the library?",
+        "How do I get to Block A?",
+        "Take me to the Computer Science department",
+        "Show me the way to cafeteria",
+        "Where is Room A201?",
+        "How to reach the principal's office?",
+        "Guide me to the auditorium",
+        "Where can I find the medical center?",
+        "Take me to the gymnasium",
+        "How do I get to the MBA department?",
+        "Show directions to Block B",
+        "Where is the placement cell?",
+        "Guide me to the research center"
+      ],
+      "responses": [
+        "I'll help you navigate to {location}. Let me calculate the best route for you.",
+        "Sure! I can guide you to {location}. Here's the route:",
+        "I'll show you the way to {location}. Please follow these directions:"
+      ],
+      "context": ["location_search"]
+    },
+    {
+      "tag": "facility_info",
+      "patterns": [
+        "What are the library timings?",
+        "When is the cafeteria open?",
+        "What facilities are available in Block A?",
+        "Tell me about the gymnasium",
+        "What services does the medical center provide?",
+        "What labs are in the CSE department?",
+        "What are the hostel facilities?",
+        "Is there Wi-Fi on campus?",
+        "What sports facilities are available?",
+        "Tell me about the auditorium"
+      ],
+      "responses": [
+        "Here's the information about {facility}:",
+        "Let me provide you details about {facility}:",
+        "{facility} offers the following services:"
+      ],
+      "context": ["facility_inquiry"]
+    },
+    {
+      "tag": "admission_info",
+      "patterns": [
+        "How can I apply for admission?",
+        "What is the admission process?",
+        "What are the eligibility criteria?",
+        "When do admissions open?",
+        "What is the fee structure?",
+        "Are scholarships available?",
+        "What courses are offered?",
+        "What is the application deadline?",
+        "How to get admission in CSE?",
+        "What is the admission criteria for MBA?"
+      ],
+      "responses": [
+        "Here's information about KSSEM admissions:",
+        "I'll help you with admission details:",
+        "For admission information:"
+      ],
+      "context": ["admission_inquiry"]
+    },
+    {
+      "tag": "department_info",
+      "patterns": [
+        "Tell me about the CSE department",
+        "What specializations are offered in ECE?",
+        "Who is the head of Mechanical Engineering?",
+        "What courses are available in Civil Engineering?",
+        "Tell me about MBA faculty",
+        "What labs are in the ECE department?",
+        "How many students are in CSE?",
+        "What research areas are available?",
+        "Tell me about Computer Science faculty"
+      ],
+      "responses": [
+        "Here's information about the {department} department:",
+        "Let me tell you about {department}:",
+        "{department} department details:"
+      ],
+      "context": ["department_inquiry"]
+    },
+    {
+      "tag": "faculty_info",
+      "patterns": [
+        "Who is Dr. Rajesh Kumar?",
+        "Tell me about the CSE faculty",
+        "What is Dr. Priya Sharma's specialization?",
+        "Who teaches AI/ML courses?",
+        "Contact details of department heads",
+        "Faculty in Mechanical Engineering",
+        "Who is the principal of KSSEM?",
+        "Research supervisors available"
+      ],
+      "responses": [
+        "Here's information about {faculty}:",
+        "Faculty details:",
+        "Let me provide faculty information:"
+      ],
+      "context": ["faculty_inquiry"]
+    },
+    {
+      "tag": "placement_info",
+      "patterns": [
+        "What are the placement statistics?",
+        "Which companies visit for placements?",
+        "What is the average package?",
+        "How is the placement record?",
+        "Tell me about placement cell",
+        "What is the highest package offered?",
+        "Which companies recruit from CSE?",
+        "How to register for placements?"
+      ],
+      "responses": [
+        "Here's KSSEM's placement information:",
+        "Our placement statistics show:",
+        "Placement details:"
+      ],
+      "context": ["placement_inquiry"]
+    },
+    {
+      "tag": "general_info",
+      "patterns": [
+        "Tell me about KSSEM",
+        "What is KS School of Engineering and Management?",
+        "When was KSSEM established?",
+        "Where is KSSEM located?",
+        "What is the campus size?",
+        "Is KSSEM accredited?",
+        "What university is KSSEM affiliated to?",
+        "How many students study here?"
+      ],
+      "responses": [
+        "KSSEM (KS School of Engineering and Management) is:",
+        "Here's general information about our college:",
+        "About KSSEM:"
+      ],
+      "context": ["general_inquiry"]
+    },
+    {
+      "tag": "emergency",
+      "patterns": [
+        "Emergency contact",
+        "I need medical help",
+        "Security contact",
+        "There's an emergency",
+        "Medical emergency",
+        "Call security",
+        "Help needed",
+        "Emergency numbers"
+      ],
+      "responses": [
+        "For emergencies, here are the important contacts:",
+        "Emergency contacts:",
+        "Immediate help available:"
+      ],
+      "context": ["emergency_help"]
+    },
+    {
+      "tag": "transport_info",
+      "patterns": [
+        "How do I reach KSSEM?",
+        "Is bus facility available?",
+        "What are the bus routes?",
+        "Transport facility from Electronic City",
+        "How to reach from Koramangala?",
+        "Bus timings",
+        "Is parking available?"
+      ],
+      "responses": [
+        "Transport information:",
+        "Here are the transport options:",
+        "Travel details:"
+      ],
+      "context": ["transport_inquiry"]
+    },
+    {
+      "tag": "events_info",
+      "patterns": [
+        "What events are happening today?",
+        "Any upcoming events?",
+        "Cultural events in college",
+        "Technical events",
+        "When is the annual fest?",
+        "Are there any workshops?",
+        "Guest lectures scheduled"
+      ],
+      "responses": [
+        "Current and upcoming events:",
+        "Here's the event schedule:",
+        "Events at KSSEM:"
+      ],
+      "context": ["events_inquiry"]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hello",
+        "Hi",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Hey there",
+        "Namaste",
+        "Hi there"
+      ],
+      "responses": [
+        "Hello! Welcome to KSSEM Virtual Assistant. How can I help you today?",
+        "Hi there! I'm here to help you with information about KSSEM. What would you like to know?",
+        "Welcome to KS School of Engineering and Management! How may I assist you?",
+        "Namaste! I'm your campus guide. What information can I provide for you?"
+      ],
+      "context": ["greeting"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "Thank you",
+        "Thanks",
+        "See you later",
+        "That's all",
+        "Exit",
+        "Quit"
+      ],
+      "responses": [
+        "Thank you for using KSSEM Virtual Assistant. Have a great day!",
+        "Goodbye! Feel free to ask if you need any more help.",
+        "You're welcome! Visit us again for any campus-related queries.",
+        "Take care! I'm always here to help with KSSEM information."
+      ],
+      "context": ["farewell"]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "What can you do?",
+        "How can you help me?",
+        "What services do you provide?",
+        "Help me",
+        "What are your capabilities?",
+        "Can you guide me?",
+        "What information can you provide?"
+      ],
+      "responses": [
+        "I can help you with: \n• Campus navigation and directions\n• Information about departments and facilities\n• Admission and course details\n• Faculty and contact information\n• Placement statistics\n• Campus events and activities\n• Emergency contacts\nWhat would you like to know?",
+        "I'm your KSSEM campus assistant! I can provide information about our facilities, help you navigate the campus, answer questions about admissions, placements, faculty, and much more. Just ask me anything!",
+        "Here's how I can assist you:\n• Find locations on campus\n• Get department information\n• Learn about courses and admissions\n• Contact details\n• Campus facilities and services\nWhat specific information do you need?"
+      ],
+      "context": ["help_request"]
+    }
+  ]
+}

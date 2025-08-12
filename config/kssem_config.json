@@ -1,0 +1,107 @@
+{
+  "college_info": {
+    "name": "KS School of Engineering and Management",
+    "short_name": "KSSEM",
+    "established": "2005",
+    "location": "Bangalore, Karnataka, India",
+    "campus_area": "25 acres",
+    "website": "https://kssem.edu.in",
+    "contact": {
+      "phone": "+91-80-1234-5678",
+      "email": "info@kssem.edu.in",
+      "address": "KS School of Engineering and Management, Bangalore - 560062"
+    }
+  },
+  "departments": [
+    {
+      "id": "cse",
+      "name": "Computer Science and Engineering",
+      "head": "Dr. Rajesh Kumar",
+      "block": "A",
+      "floor": [2, 3, 4],
+      "contact": "cse@kssem.edu.in"
+    },
+    {
+      "id": "ece",
+      "name": "Electronics and Communication Engineering",
+      "head": "Dr. Priya Sharma",
+      "block": "B",
+      "floor": [1, 2, 3],
+      "contact": "ece@kssem.edu.in"
+    },
+    {
+      "id": "me",
+      "name": "Mechanical Engineering",
+      "head": "Dr. Suresh Reddy",
+      "block": "C",
+      "floor": [1, 2],
+      "contact": "me@kssem.edu.in"
+    },
+    {
+      "id": "civil",
+      "name": "Civil Engineering",
+      "head": "Dr. Lakshmi Devi",
+      "block": "D",
+      "floor": [1, 2],
+      "contact": "civil@kssem.edu.in"
+    },
+    {
+      "id": "mba",
+      "name": "Master of Business Administration",
+      "head": "Dr. Vikram Singh",
+      "block": "E",
+      "floor": [1, 2],
+      "contact": "mba@kssem.edu.in"
+    }
+  ],
+  "facilities": {
+    "library": {
+      "location": "Block F, Ground Floor",
+      "timings": "8:00 AM - 8:00 PM",
+      "contact": "library@kssem.edu.in",
+      "capacity": "200 students"
+    },
+    "cafeteria": {
+      "location": "Block G, Ground Floor",
+      "timings": "7:00 AM - 7:00 PM",
+      "contact": "cafeteria@kssem.edu.in"
+    },
+    "auditorium": {
+      "location": "Block H, Ground Floor",
+      "capacity": "500 people",
+      "contact": "events@kssem.edu.in"
+    },
+    "gymnasium": {
+      "location": "Block I, Ground Floor",
+      "timings": "6:00 AM - 9:00 PM",
+      "contact": "sports@kssem.edu.in"
+    },
+    "medical_center": {
+      "location": "Block J, Ground Floor",
+      "timings": "9:00 AM - 5:00 PM",
+      "contact": "medical@kssem.edu.in"
+    }
+  },
+  "kiosk_settings": {
+    "response_timeout": 2,
+    "max_query_length": 500,
+    "supported_languages": ["english", "hindi", "kannada"],
+    "accessibility_features": {
+      "voice_guidance": true,
+      "high_contrast": true,
+      "large_text": true,
+      "touch_assistance": true
+    },
+    "privacy_settings": {
+      "data_retention_days": 30,
+      "anonymize_queries": true,
+      "encryption_enabled": true
+    }
+  },
+  "ai_models": {
+    "nlp_model": "distilbert-base-uncased",
+    "speech_model": "google-cloud-speech",
+    "slam_algorithm": "orb-slam3",
+    "confidence_threshold": 0.85
+  }
+}
