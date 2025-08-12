@@ -1,0 +1,224 @@
+{
+  "faqs": [
+    {
+      "id": "faq_001",
+      "category": "General Information",
+      "question": "What is KSSEM College?",
+      "answer": "KSSEM College of Engineering and Management is an AICTE approved and NBA accredited engineering college established in 2001, located in Electronic City, Bangalore. We offer undergraduate and postgraduate programs in various engineering disciplines.",
+      "keywords": ["college", "engineering", "management", "bangalore", "aicte", "nba"],
+      "confidence": 0.95
+    },
+    {
+      "id": "faq_002",
+      "category": "General Information",
+      "question": "Where is KSSEM College located?",
+      "answer": "KSSEM College is located in Electronic City, Bangalore - 560100, Karnataka, India. The campus is easily accessible via Electronic City Metro Station and major bus routes.",
+      "keywords": ["location", "electronic city", "bangalore", "karnataka", "metro", "bus"],
+      "confidence": 0.98
+    },
+    {
+      "id": "faq_003",
+      "category": "General Information",
+      "question": "What are the contact details?",
+      "answer": "You can contact KSSEM College at:\nPhone: +91-80-2848-1234\nEmail: info@kssem.edu.in\nWebsite: https://kssem.edu.in\nAddress: KSSEM Campus, Electronic City, Bangalore - 560100",
+      "keywords": ["contact", "phone", "email", "website", "address"],
+      "confidence": 0.97
+    },
+    {
+      "id": "faq_004",
+      "category": "Admissions",
+      "question": "What courses are offered at KSSEM College?",
+      "answer": "KSSEM College offers the following programs:\n\nUndergraduate (B.Tech):\n- Computer Science and Engineering (CSE)\n- Electronics and Communication Engineering (ECE)\n- Mechanical Engineering (ME)\n- Civil Engineering\n- Artificial Intelligence and Machine Learning (AI&ML)\n\nPostgraduate (M.Tech):\n- Computer Science and Engineering\n- Electronics and Communication Engineering\n- Mechanical Engineering\n- Artificial Intelligence and Machine Learning\n\nPhD programs are also available in various disciplines.",
+      "keywords": ["courses", "btech", "mtech", "phd", "cse", "ece", "me", "civil", "ai", "ml"],
+      "confidence": 0.96
+    },
+    {
+      "id": "faq_005",
+      "category": "Admissions",
+      "question": "What is the admission process?",
+      "answer": "Admission to KSSEM College is based on:\n\n1. KCET (Karnataka Common Entrance Test) scores for B.Tech programs\n2. GATE scores for M.Tech programs\n3. Academic performance and entrance exam scores for PhD programs\n\nFor detailed admission information, please visit our website or contact the admission office.",
+      "keywords": ["admission", "process", "kcet", "gate", "entrance", "exam"],
+      "confidence": 0.94
+    },
+    {
+      "id": "faq_006",
+      "category": "Admissions",
+      "question": "What are the eligibility criteria?",
+      "answer": "Eligibility criteria vary by program:\n\nB.Tech: 10+2 with Physics, Chemistry, and Mathematics with minimum 45% aggregate\nM.Tech: B.Tech in relevant discipline with minimum 60% aggregate\nPhD: M.Tech/M.E. in relevant discipline with minimum 60% aggregate\n\nPlease check our website for detailed eligibility requirements.",
+      "keywords": ["eligibility", "criteria", "10+2", "physics", "chemistry", "mathematics", "aggregate"],
+      "confidence": 0.93
+    },
+    {
+      "id": "faq_007",
+      "category": "Campus Life",
+      "question": "What facilities are available on campus?",
+      "answer": "KSSEM College provides comprehensive facilities:\n\nAcademic:\n- 25 lecture halls and 8 seminar halls\n- 36 laboratories (12 computer labs, 18 engineering labs, 6 research labs)\n- Central library with 25,000+ books and digital resources\n- Smart classrooms with modern technology\n\nInfrastructure:\n- 500-seat auditorium\n- Sports complex with indoor and outdoor facilities\n- Student cafeteria with multi-cuisine options\n- Hostel accommodation for 400 students\n- 100% WiFi coverage\n- Medical room and security services",
+      "keywords": ["facilities", "lecture halls", "laboratories", "library", "auditorium", "sports", "cafeteria", "hostel", "wifi"],
+      "confidence": 0.95
+    },
+    {
+      "id": "faq_008",
+      "category": "Campus Life",
+      "question": "Is hostel accommodation available?",
+      "answer": "Yes, KSSEM College provides separate hostel accommodation for boys and girls with a total capacity of 400 students. The hostels feature:\n- WiFi connectivity\n- 24/7 security\n- Dining hall with nutritious meals\n- Modern amenities and comfortable living spaces\n\nHostel fees and application forms are available at the administration office.",
+      "keywords": ["hostel", "accommodation", "boys", "girls", "wifi", "security", "dining", "meals"],
+      "confidence": 0.96
+    },
+    {
+      "id": "faq_009",
+      "category": "Campus Life",
+      "question": "What sports facilities are available?",
+      "answer": "KSSEM College has a comprehensive sports complex offering:\n\nOutdoor Sports:\n- Basketball court\n- Volleyball court\n- Cricket ground\n- Athletic track\n\nIndoor Sports:\n- Gymnasium\n- Table tennis\n- Carrom and chess\n- Indoor games room\n\nSports equipment and coaching are provided to encourage student participation in various sports activities.",
+      "keywords": ["sports", "facilities", "basketball", "volleyball", "cricket", "gym", "table tennis", "coaching"],
+      "confidence": 0.94
+    },
+    {
+      "id": "faq_010",
+      "category": "Academics",
+      "question": "What are the library timings?",
+      "answer": "The Central Library at KSSEM College is open:\n\nMonday to Friday: 8:00 AM - 8:00 PM\nSaturday: 8:00 AM - 6:00 PM\nSunday: 9:00 AM - 5:00 PM\n\nDigital library resources are available 24/7 through our online portal. The library has a collection of 25,000+ books, 100+ journal subscriptions, and access to various online databases.",
+      "keywords": ["library", "timings", "hours", "books", "journals", "databases", "digital"],
+      "confidence": 0.98
+    },
+    {
+      "id": "faq_011",
+      "category": "Academics",
+      "question": "What research areas are available?",
+      "answer": "KSSEM College focuses on cutting-edge research in:\n\n- Artificial Intelligence and Machine Learning\n- IoT and Embedded Systems\n- Renewable Energy Technologies\n- Data Science and Analytics\n- Cybersecurity and Network Security\n- Robotics and Automation\n- Sustainable Engineering\n\nWe have dedicated research labs and collaborate with industry partners and research institutions.",
+      "keywords": ["research", "ai", "ml", "iot", "renewable energy", "data science", "cybersecurity", "robotics"],
+      "confidence": 0.95
+    },
+    {
+      "id": "faq_012",
+      "category": "Academics",
+      "question": "What is the faculty strength?",
+      "answer": "KSSEM College has a strong faculty team of 85 members with:\n\n- 45% holding PhD degrees\n- 40% with M.Tech qualifications\n- 15% with B.Tech degrees\n\nOur faculty members are experienced professionals with expertise in their respective domains and actively engage in research and industry collaborations.",
+      "keywords": ["faculty", "strength", "phd", "mtech", "btech", "experience", "research", "industry"],
+      "confidence": 0.96
+    },
+    {
+      "id": "faq_013",
+      "category": "Placements",
+      "question": "What are the placement opportunities?",
+      "answer": "KSSEM College has an active placement cell that:\n\n- Organizes campus recruitment drives\n- Provides career counseling and training\n- Offers internship opportunities\n- Conducts skill development workshops\n- Maintains strong industry connections\n\nOur students have been placed in leading companies like TCS, Infosys, Wipro, Cognizant, and many others with competitive salary packages.",
+      "keywords": ["placement", "recruitment", "career", "counseling", "internship", "training", "industry", "companies"],
+      "confidence": 0.94
+    },
+    {
+      "id": "faq_014",
+      "category": "Placements",
+      "question": "What companies visit for recruitment?",
+      "answer": "Leading companies that regularly recruit from KSSEM College include:\n\nIT Companies:\n- TCS, Infosys, Wipro, Cognizant\n- Tech Mahindra, HCL, Mindtree\n- Amazon, Microsoft, Google\n\nCore Engineering:\n- L&T, BHEL, HAL\n- Bosch, Siemens, Schneider Electric\n- Automotive companies like Toyota, Honda\n\nConsulting:\n- Deloitte, PwC, EY\n- Accenture, Capgemini\n\nStartups and emerging companies also actively recruit our students.",
+      "keywords": ["companies", "recruitment", "it", "core engineering", "consulting", "startups", "tcs", "infosys"],
+      "confidence": 0.93
+    },
+    {
+      "id": "faq_015",
+      "category": "Student Life",
+      "question": "What student clubs and activities are available?",
+      "answer": "KSSEM College offers various student clubs and activities:\n\nTechnical Clubs:\n- IEEE Student Branch\n- Computer Society of India (CSI)\n- Robotics Club\n- Coding Club\n\nCultural Activities:\n- Music and Dance Club\n- Drama Club\n- Photography Club\n- Literary Club\n\nSports and Recreation:\n- Various sports teams\n- Adventure club\n- Yoga and wellness programs\n\nThese clubs organize events, workshops, and competitions throughout the year.",
+      "keywords": ["student clubs", "activities", "ieee", "csi", "robotics", "coding", "cultural", "sports", "yoga"],
+      "confidence": 0.95
+    },
+    {
+      "id": "faq_016",
+      "category": "Student Life",
+      "question": "What events are organized on campus?",
+      "answer": "KSSEM College organizes various events throughout the year:\n\nTechnical Events:\n- Tech Fest (October)\n- Project Exhibition\n- Hackathons and coding competitions\n- Technical symposiums\n\nCultural Events:\n- Cultural Day (November)\n- Annual Day celebrations\n- Inter-college cultural competitions\n- Music and dance performances\n\nOther Events:\n- Alumni Meet (December)\n- Industry interaction programs\n- Workshops and seminars\n- Sports tournaments",
+      "keywords": ["events", "tech fest", "cultural day", "alumni meet", "workshops", "seminars", "competitions"],
+      "confidence": 0.94
+    },
+    {
+      "id": "faq_017",
+      "category": "Transportation",
+      "question": "How to reach KSSEM College?",
+      "answer": "KSSEM College is easily accessible:\n\nBy Metro:\n- Take the Purple Line to Electronic City Metro Station\n- College is a 10-minute walk from the station\n\nBy Bus:\n- BMTC buses from various parts of Bangalore\n- Routes: 365, 366, 367, 368\n\nBy Road:\n- Located on Hosur Road (NH44)\n- Well-connected to Electronic City and surrounding areas\n- Ample parking space available\n\nBy Train:\n- Electronic City Railway Station is nearby",
+      "keywords": ["transportation", "metro", "bus", "road", "train", "electronic city", "parking"],
+      "confidence": 0.96
+    },
+    {
+      "id": "faq_018",
+      "category": "Transportation",
+      "question": "Is there a college bus service?",
+      "answer": "KSSEM College provides bus services from major areas of Bangalore:\n\nRoutes cover:\n- Majestic and City Market\n- Koramangala and Indiranagar\n- JP Nagar and Banashankari\n- Whitefield and Electronic City\n- Many other areas\n\nBus passes are available for students at discounted rates. For route details and timings, please contact the transportation office.",
+      "keywords": ["college bus", "service", "routes", "majestic", "koramangala", "jp nagar", "whitefield", "passes"],
+      "confidence": 0.94
+    },
+    {
+      "id": "faq_019",
+      "category": "Fees and Financial Aid",
+      "question": "What are the fee structures?",
+      "answer": "Fee structures vary by program and category:\n\nB.Tech Programs:\n- Government Quota: Approximately ₹25,000 per year\n- Management Quota: Approximately ₹1,50,000 per year\n\nM.Tech Programs:\n- Government Quota: Approximately ₹35,000 per year\n- Management Quota: Approximately ₹2,00,000 per year\n\nAdditional fees include:\n- Laboratory fees\n- Library fees\n- Examination fees\n- Hostel fees (if applicable)\n\nFor detailed fee structure, please contact the accounts office.",
+      "keywords": ["fees", "structure", "government quota", "management quota", "laboratory", "library", "examination", "hostel"],
+      "confidence": 0.92
+    },
+    {
+      "id": "faq_020",
+      "category": "Fees and Financial Aid",
+      "question": "Are scholarships available?",
+      "answer": "Yes, KSSEM College offers various scholarships:\n\nMerit-based Scholarships:\n- For students with excellent academic performance\n- Based on entrance exam scores\n- Renewable annually based on performance\n\nGovernment Scholarships:\n- SC/ST scholarships\n- OBC scholarships\n- EWS scholarships\n\nIndustry Scholarships:\n- Sponsored by corporate partners\n- For specific programs or categories\n\nFor scholarship details and application procedures, please contact the scholarship office.",
+      "keywords": ["scholarships", "merit-based", "government", "sc", "st", "obc", "ews", "industry", "corporate"],
+      "confidence": 0.93
+    },
+    {
+      "id": "faq_021",
+      "category": "Emergency",
+      "question": "What are the emergency contact numbers?",
+      "answer": "Emergency contact numbers at KSSEM College:\n\nCampus Security: +91-80-2848-1235\nMedical Room: +91-80-2848-1236\nFire Safety: +91-80-2848-1237\n\nGeneral Emergency:\nPolice: 100\nAmbulance: 108\nFire: 101\n\nFor non-emergency assistance, contact the main office at +91-80-2848-1234.",
+      "keywords": ["emergency", "contact", "security", "medical", "fire", "police", "ambulance"],
+      "confidence": 0.98
+    },
+    {
+      "id": "faq_022",
+      "category": "Emergency",
+      "question": "What medical facilities are available?",
+      "answer": "KSSEM College provides basic medical facilities:\n\nMedical Room:\n- First aid services\n- Basic medical consultation\n- Emergency medical support\n- Health check-ups\n\nNearby Hospitals:\n- Narayana Health City (5 km)\n- Apollo Hospitals (8 km)\n- Manipal Hospitals (10 km)\n\nFor serious medical emergencies, students are referred to nearby hospitals. The medical room is staffed during college hours.",
+      "keywords": ["medical", "facilities", "first aid", "consultation", "emergency", "hospitals", "health check"],
+      "confidence": 0.95
+    },
+    {
+      "id": "faq_023",
+      "category": "Technology",
+      "question": "What technology infrastructure is available?",
+      "answer": "KSSEM College features modern technology infrastructure:\n\nComputing Facilities:\n- 12 computer laboratories with latest hardware\n- High-speed internet connectivity\n- Cloud computing resources\n- Software licenses for engineering applications\n\nSmart Classrooms:\n- 15 smart classrooms with projectors\n- Interactive whiteboards\n- Audio-visual equipment\n- Digital content delivery systems\n\nDigital Library:\n- 24/7 online access\n- E-books and digital journals\n- Online databases and research tools\n- Remote access capabilities",
+      "keywords": ["technology", "infrastructure", "computer labs", "internet", "smart classrooms", "digital library", "software"],
+      "confidence": 0.96
+    },
+    {
+      "id": "faq_024",
+      "category": "Technology",
+      "question": "What software and tools are available?",
+      "answer": "KSSEM College provides access to various software and tools:\n\nEngineering Software:\n- AutoCAD, SolidWorks, CATIA\n- MATLAB, Simulink\n- ANSYS, COMSOL\n- Proteus, Multisim\n- Keil, Arduino IDE\n\nDevelopment Tools:\n- Visual Studio, Eclipse\n- Android Studio, Xcode\n- Git, GitHub\n- Docker, Kubernetes\n\nOffice and Design:\n- Microsoft Office Suite\n- Adobe Creative Suite\n- Statistical analysis tools\n\nAll software is available in computer labs and can be accessed by students during lab hours.",
+      "keywords": ["software", "tools", "autocad", "matlab", "ansys", "visual studio", "android studio", "microsoft office"],
+      "confidence": 0.94
+    },
+    {
+      "id": "faq_025",
+      "category": "International",
+      "question": "Are there international collaborations?",
+      "answer": "Yes, KSSEM College has several international collaborations:\n\nAcademic Partnerships:\n- Student exchange programs\n- Faculty exchange programs\n- Joint research projects\n- Collaborative degree programs\n\nResearch Collaborations:\n- International conferences and workshops\n- Joint publications\n- Research funding opportunities\n- Technology transfer programs\n\nIndustry Partnerships:\n- Global companies with local presence\n- International internship opportunities\n- Cross-cultural project teams\n\nFor specific collaboration details, please contact the international relations office.",
+      "keywords": ["international", "collaborations", "exchange programs", "research", "conferences", "internships", "global"],
+      "confidence": 0.93
+    }
+  ],
+  "metadata": {
+    "total_faqs": 25,
+    "categories": [
+      "General Information",
+      "Admissions",
+      "Campus Life",
+      "Academics",
+      "Placements",
+      "Student Life",
+      "Transportation",
+      "Fees and Financial Aid",
+      "Emergency",
+      "Technology",
+      "International"
+    ],
+    "last_updated": "2024-01-15",
+    "version": "1.0",
+    "college": "KSSEM College of Engineering and Management",
+    "description": "Frequently Asked Questions database for KSSEM College Virtual AI Assistant"
+  }
+}
